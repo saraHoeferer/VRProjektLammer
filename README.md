@@ -11,6 +11,8 @@ Toggle controler with mouse movement
 
 Press and Hold G to Grab Objects
 
+For more information look at: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/xr-device-simulator.html
+
 # Goal of the Game is to open the Safe an steal the money
 ## Objectives
 You need to put the four objects that are placed on the counter to their respective place
